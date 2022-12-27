@@ -30,5 +30,5 @@ project is based on data from three cities, a Bikeshare system used in some of t
 * washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+udacity and instructor isra khan
 
